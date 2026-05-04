@@ -34,6 +34,7 @@
 
 ## 📜 Certifications 
 Sql certificate from HackerRank
+sql_advanced certificate.pdf
 
 
 
