@@ -32,7 +32,11 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications 
+Sql certificate from HackerRank
+<img width="1228" height="891" alt="image" src="https://github.com/user-attachments/assets/c19cffab-f5c1-4170-b649-1c9684930065" />
+
+
 
 ## 📫 Connect with Me
 
