@@ -28,7 +28,7 @@
  📂 Projects
 
 * 📰 **Newzz** – Full-stack News Aggregator Web App
-* 📊 **Customer Behavior Dashboard** – Data analysis project using Python & SQL
+* 📊 **Customer Behavior Dashboard** – Data analysis project using Python & PostgreSQL
 
 
 
