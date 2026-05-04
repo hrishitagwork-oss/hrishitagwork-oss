@@ -31,18 +31,6 @@
 * 📊 **Customer Behavior Dashboard** – Data analysis project using Python & SQL
 
 
-## 📜 Certifications
-
-* 🎓 **SQL Advanced Certificate**
- * 🔗 [View Certificate](sql-advanced-certificate.pdf)
-
-* 🎓 **SQL Intermediate Certificate**
-* 🔗 [View Certificate](sql-intermediate-certificate.pdf)
-
-
-
-
-
 
 ## 📫 Connect with Me
 
