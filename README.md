@@ -30,11 +30,15 @@
 * 📰 **Newzz** – Full-stack News Aggregator Web App
 * 📊 **Customer Behavior Dashboard** – Data analysis project using Python & SQL
 
----
 
-## 📜 Certifications 
-Sql certificate from HackerRank
-[View Certificate](sql_advanced%20certificate.pdf)
+## 📜 Certifications
+
+* 🎓 **SQL Advanced Certificate**
+ * 🔗 [View Certificate](sql-advanced-certificate.pdf)
+
+* 🎓 **SQL Intermediate Certificate**
+* 🔗 [View Certificate](sql-intermediate-certificate.pdf)
+
 
 
 
