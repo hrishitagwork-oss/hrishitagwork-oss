@@ -34,7 +34,7 @@
 
 ## 📜 Certifications 
 Sql certificate from HackerRank
-<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/c19cffab-f5c1-4170-b649-1c9684930065" />
+
 
 
 
