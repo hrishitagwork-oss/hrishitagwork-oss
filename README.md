@@ -4,6 +4,9 @@
 📍 Kolkata, India
 💡 Passionate about learning, building, and solving real-world problems with data
 
+Proficient in HTML, CSS, JavaScript, and gaining practical experience in backend technologies such as Node.js, Express, and PostgreSQL. Worked with SQL and Jupyter Notebook to analyze 10,000+ records, uncovering customer behavior patterns and business trends.Experienced in API integration, database management, and data visualization using tools like Power BI, enabling data-driven decision-making. Strong understanding of how data flows from applications to databases and how it can be transformed into actionable insights.
+Currently expanding skills in Python (Pandas, NumPy), advanced SQL, and full stack development. Passionate about building scalable applications and leveraging data to solve real-world problems.
+
 🔎 About Me
 
 * 📊 Passionate about data analysis and uncovering insights
