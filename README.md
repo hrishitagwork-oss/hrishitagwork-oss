@@ -2,8 +2,11 @@
 
 🎓 **Aspiring Data Analyst & Python Enthusiast**
 
+![](https://komarev.com/ghpvc/?username=hrishitagwork-oss)
+
 
 📍 *Kolkata, India*
+
 
 
 💡 Passionate about learning, building, and solving real-world problems with data
