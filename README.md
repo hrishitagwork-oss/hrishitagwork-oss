@@ -2,7 +2,7 @@
 
 🎓 **Aspiring Data Analyst & Python Enthusiast**
 
-![](https://komarev.com/ghpvc/?username=hrishitagwork-oss)
+
 
 
 📍 *Kolkata, India*
