@@ -39,11 +39,14 @@ Participated in Smart Coder, EY Techathon &  Innovative Idea Project Competition
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-darkblue?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
  📂 **Projects**
 
 * 📰 **Newzz** – Full-stack News Aggregator Web App
 * 📊 **Customer Behavior Dashboard** – Data analysis project using Python & PostgreSQL
+* 🏠 **House Price Prediction** – Built a machine learning model for house price prediction
+
 
 
 
