@@ -26,8 +26,7 @@ Currently expanding skills in Python (Pandas, NumPy), advanced SQL, and full sta
 
 **ACTIVITIES**
 
-
-Participated in Smart Coder, EY Techathon &  Innovative Idea Project Competitions.
+Working....
 
  🛠️ **Tech Stack**
 
