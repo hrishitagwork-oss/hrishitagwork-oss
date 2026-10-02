@@ -1,4 +1,4 @@
-👋 Hi, I'm **Hrishita Gain** (HRG--3002)
+👋 Hi, I'm **Hrishita Gain** 
 
 
 🎓 **Aspiring Data Analyst & Python Enthusiast**
